@@ -41,7 +41,7 @@ body{
 .medium1{
   position:fixed;
   left: 200;
-  top: 180px;
+  top: 150px;
 }
 #heart{
   position: fixed;
@@ -55,19 +55,19 @@ r3{
   font-size:50px;
   color:white;
   position:fixed;
-  bottom:500;
+  bottom:435;
 }
 r4{
   font-family:georgia;
   font-size:25px;
   color:white;
   position:fixed;
-  bottom:468;
+  bottom:415;
 }
 .dot{
   font-size:120px;
   position:fixed;
-  bottom:350;
+  bottom:320;
   left:650px;
 }
 
@@ -80,18 +80,18 @@ r9{
   color:white;
   font-family:fantasy;
   position:fixed;
-  bottom:393;
+  bottom:360;
   word-spacing:10px;
 }
 #dash{
   position:fixed;
-  bottom:373;
+  bottom:340;
 }
 r10{
   color:white;
   word-spacing:187px;
   position:fixed;
-  bottom:355;
+  bottom:330;
 }
 .left-paragraph{
   color:white;
@@ -133,8 +133,8 @@ r10{
 }
 #circle{
     position:fixed;
-      width:35;
-        height:35;
-          left:648;
-            top:441;
+      width:30;
+        height:30;
+          left:650;
+            top:307;
           }
