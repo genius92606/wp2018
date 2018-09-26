@@ -1,0 +1,140 @@
+body{
+  background-image: url("https://i.imgur.com/Zsv9SEL.png");
+  background-repeat: no-repeat;
+  background-size:cover;
+  background-attachment:fixed;
+}
+#cyan{
+  position:fixed;
+  height:100px;
+  width:330px;
+  opacity:0.56;
+}
+#home{
+  position: absolute;
+  left: 75px;
+  top: 35px;
+}
+#link1{
+  position: absolute;
+  left: 500px;
+  top: 35px;
+}
+#link2{
+  position: absolute;
+  left:1000px;
+  top: 35px;
+}
+#white{
+  position: fixed;
+  bottom: 0px;
+  left: 0px;
+  width:350px;
+  height:120px;
+  opacity
+}
+#bottom_word{
+  position:fixed;
+  bottom:40px;
+  left:80px;
+}
+.medium1{
+  position:fixed;
+  left: 200;
+  top: 180px;
+}
+#heart{
+  position: fixed;
+  bottom:50px;
+  left:530px;
+  width :20px;
+  height :20px;
+}
+r3{
+  font-family:comic sans ms;
+  font-size:50px;
+  color:white;
+  position:fixed;
+  bottom:500;
+}
+r4{
+  font-family:georgia;
+  font-size:25px;
+  color:white;
+  position:fixed;
+  bottom:468;
+}
+.dot{
+  font-size:120px;
+  position:fixed;
+  bottom:350;
+  left:650px;
+}
+
+r5{color:rgb(102, 209, 233);}
+r6{color:black;}
+r7{color:rgb(252,209,130);}
+r8{color:white;}
+r9{
+  font-size:15px;
+  color:white;
+  font-family:fantasy;
+  position:fixed;
+  bottom:393;
+  word-spacing:10px;
+}
+#dash{
+  position:fixed;
+  bottom:373;
+}
+r10{
+  color:white;
+  word-spacing:187px;
+  position:fixed;
+  bottom:355;
+}
+.left-paragraph{
+  color:white;
+  position:fixed;
+  bottom:120;
+  font-family:comic sans ms;
+}
+#title1{
+  font-family:impact;
+  word-spacing:10px;
+}
+.right-paragraph{
+  color:white;
+  position:fixed;
+  bottom:80;
+  left:800;
+  font-family:comic sans ms;
+  word-spacing:40px;
+}
+#title2{
+  font-family:impact;
+  word-spacing:10px;
+}
+.right-top{
+  position:fixed;
+  right:100px;
+  top: 35px;
+}
+#account{
+  opacity:0.5;
+  word-spacing:10px;
+}
+#vertical{
+  writing-mode:vertical-rl;
+  position:fixed;
+  right:40;
+  top:35px;
+  font-size:40px;
+}
+#circle{
+    position:fixed;
+      width:35;
+        height:35;
+          left:648;
+            top:441;
+          }
